@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.latest-match-card {
+  background-color: #0f172a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70vw;
+  padding: 20px;
+  border-radius: 15px;
+}
+.comp-logo {
+  height: 150px;
+  width: 150px;
+}
+.third-part {
+  text-align: right;
+}
+p {
+  font-size: 15px;
+}

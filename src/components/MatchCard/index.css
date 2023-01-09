@@ -1,0 +1,22 @@
+/* Write your CSS here */
+li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 7px;
+  border-radius: 10px;
+  background-color: #0f172a;
+  width: 30%;
+  margin: 10px;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}

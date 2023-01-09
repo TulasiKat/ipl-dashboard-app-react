@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  padding: 20px;
+  font-family: 'Bree serif';
+  color: white;
+  height: auto;
+}
+.banner {
+  width: 90%;
+  height: 300px;
+}
+
+p {
+  font-size: 15px;
+}
+.second-part {
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
